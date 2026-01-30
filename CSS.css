@@ -1,0 +1,9 @@
+.makingBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.makingImg{
+    width: 50%;
+    height: 50%;
+}
